@@ -1,0 +1,4 @@
+Detected defects:
+defect #1 at x=95, y=80
+defect #2 at x=80, y=244
+defect #3 at x=148, y=333

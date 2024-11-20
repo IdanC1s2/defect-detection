@@ -1,0 +1,6 @@
+Detected defects:
+defect #1 at x=103, y=105
+defect #2 at x=75, y=261
+defect #3 at x=343, y=264
+defect #4 at x=470, y=361
+defect #5 at x=445, y=358

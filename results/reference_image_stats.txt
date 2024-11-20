@@ -1,0 +1,11 @@
+In contour (bright) pixels:
+mean=113.88572853099586
+std_dev=11.880564706670873
+thresh_low=78.24403441098325
+thresh_high=149.52742265100846
+
+Out of contour (dark) pixels:
+mean=53.64920932098559
+std_dev=10.573164615967027
+thresh_low=21.92971547308451
+thresh_high=85.36870316888667
